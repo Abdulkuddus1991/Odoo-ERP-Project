@@ -29,11 +29,6 @@
 
 ---
 
-## 📦 Folder Naming
-`TestProject_[YourFullName]_2026`
-
----
-
 ## 📝 Notes
 - All testing performed on official Odoo Runbot instance
 - No production or real data used
