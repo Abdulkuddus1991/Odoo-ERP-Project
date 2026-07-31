@@ -1,4 +1,4 @@
-# README – Odoo Purchase Module Functional Testing
+# Odoo Purchase Module Functional Testing
 
 ## Project Details
 | Item | Information |
