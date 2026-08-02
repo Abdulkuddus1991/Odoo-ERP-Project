@@ -44,3 +44,7 @@
 ## Test Case Execution Documentation Template
 <img width="883" height="391" alt="Screenshot3 2026-08-02 062930" src="https://github.com/user-attachments/assets/e559a09b-896e-4594-992c-03a41149cd27" />
 
+## Bug Report Summary
+<img width="883" height="391" alt="Screenshot4 2026-08-02 063605" src="https://github.com/user-attachments/assets/5a1f77f2-1d1c-40e9-8b71-0b9474466e60" />
+
+
