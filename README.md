@@ -10,7 +10,7 @@
 | **Credentials** | Username: `admin` · Password: `admin` |
 
 ---
-## 📂 Deliverables Included
+## Deliverables Included
 | No | File Name | Format | Description |
 |---|---|---|---|
 | 1 | `Test_Plan` |  DOCX | IEEE standard test plan |
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧪 Test Environment
+## Test Environment
 - **Application**: Odoo Purchase Module
 - **Browsers**: Google Chrome, Microsoft Edge, Mozilla Firefox
 - **Testing Type**: Manual Functional Testing
@@ -29,7 +29,7 @@
 
 ---
 
-## 📝 Notes
+## Notes
 - All testing performed on official Odoo Runbot instance
 - No production or real data used
 - All files follow submission rules & evaluation criteria
